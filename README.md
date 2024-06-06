@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋 I'm Ali</h1>
 
-<!--
-**alicobangul/alicobangul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 I'm currently working on
 
-Here are some ideas to get you started:
+<code><a href="https://developer.android.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></a></code>
+<code><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+<code><img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 I’m currently learning
+
+<code><a href="https://developer.android.com/" target="_blank"><img src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png" width="75" height="75"></a></code>
+<br>
+
+## My apps in the store
+
+[<img src = "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width = "170" height = "70" >](https://play.google.com/store/apps/developer?id=BaseSoftware)
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicobangul&show_icons=true&locale=en&layout=compact" alt="alicobangul" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alicobangul&show_icons=true&locale=en" alt="alicobangul" /></p>
+
+
+
