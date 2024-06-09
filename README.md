@@ -17,6 +17,14 @@
 
 [<img src = "https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width = "170" height = "70" >](https://play.google.com/store/apps/developer?id=BaseSoftware)
 
+## Are you here to learn something ? :blush:
+|  | Java | Kotlin | MVVM | MVP | MVC | Firebase | Hilt | Room | RxJava | Coroutines | Retrofit | Volley | OkHttp
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| [AOFFinal](https://github.com/alicobangul/AOFFinal) | :chart: |  |  | :chart: |  |  | :chart: | :chart: | :chart: |  |  |  |  |
+| [TradingHelperKotlin](https://github.com/alicobangul/TradingHelperKotlin) |  | :chart: | :chart: |  |  |  | :chart: |  | :chart: |  | :chart: | :chart: | :chart: |
+| [CryptoKotlin](https://github.com/alicobangul/CryptoKotlin-AllArchitecture) |  | :chart: | :chart: | :chart: | :chart: |  | :chart: | :chart: | :chart: |  | :chart: |  |  |
+| [CryptoJava](https://github.com/alicobangul/CryptoJava-AllArchitecture) | :chart: |  | :chart: | :chart: | :chart: |  | :chart: | :chart: | :chart: |  | :chart: |  |  |
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicobangul&show_icons=true&locale=en&layout=compact" alt="alicobangul" /></p>
 
