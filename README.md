@@ -20,10 +20,10 @@
 ## Are you here to learn something ? :blush:
 |  | Java | Kotlin | MVVM | MVP | MVC | Firebase | Hilt | Room | RxJava | Coroutines | Retrofit | Volley | OkHttp
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [AOFFinal](https://github.com/alicobangul/AOFFinal) | :chart: |  |  | :chart: |  |  | :chart: | :chart: | :chart: |  |  |  |  |
-| [TradingHelperKotlin](https://github.com/alicobangul/TradingHelperKotlin) |  | :chart: | :chart: |  |  |  | :chart: |  | :chart: |  | :chart: | :chart: | :chart: |
-| [CryptoKotlin](https://github.com/alicobangul/CryptoKotlin-AllArchitecture) |  | :chart: | :chart: | :chart: | :chart: |  | :chart: | :chart: | :chart: |  | :chart: |  |  |
-| [CryptoJava](https://github.com/alicobangul/CryptoJava-AllArchitecture) | :chart: |  | :chart: | :chart: | :chart: |  | :chart: | :chart: | :chart: |  | :chart: |  |  |
+| [AOFFinal](https://github.com/alicobangul/AOFFinal) | ✅ |  |  | ✅ |  |  | ✅ | ✅ | ✅ |  |  |  |  |
+| [TradingHelperKotlin](https://github.com/alicobangul/TradingHelperKotlin) |  | ✅ | ✅ |  |  |  | ✅ |  | ✅ |  | ✅ | ✅ | ✅ |
+| [CryptoKotlin](https://github.com/alicobangul/CryptoKotlin-AllArchitecture) |  | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |  | ✅ |  |  |
+| [CryptoJava](https://github.com/alicobangul/CryptoJava-AllArchitecture) | ✅ |  | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |  | ✅ |  |  |
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alicobangul&show_icons=true&locale=en&layout=compact" alt="alicobangul" /></p>
