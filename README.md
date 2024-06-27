@@ -20,22 +20,22 @@
 ## My apps
 
 <div>
-  <img src="https://play-lh.googleusercontent.com/PJMwZ_5gEka300bLdIDj0AjG3nB4DBXvriV9AmUdZAZ5QFeStXoxhgjtnTlKCrznNw=w2560-h1440-rw" width="175" height="300" />
-   <img src="https://play-lh.googleusercontent.com/mnES3xJMNk0aqGL_Am26sQyx0Pk8LCOTP4kWytN9Gh90g9zN33NeZHKw2iixDW_R0Ko=w2560-h1440-rw" width="175" height="300" />
-   <img src="https://play-lh.googleusercontent.com/T6pMOM0mfm5Km4nHCOxXN63exhPBI5ADUzZmmDavWgjv9A-6_lw0_iKGAVQxCSA4uomd=w2560-h1440-rw" width="175" height="300" />
+  <img src="https://play-lh.googleusercontent.com/PJMwZ_5gEka300bLdIDj0AjG3nB4DBXvriV9AmUdZAZ5QFeStXoxhgjtnTlKCrznNw=w2560-h1440-rw" width="135" height="250" />
+   <img src="https://play-lh.googleusercontent.com/mnES3xJMNk0aqGL_Am26sQyx0Pk8LCOTP4kWytN9Gh90g9zN33NeZHKw2iixDW_R0Ko=w2560-h1440-rw" width="135" height="250" />
+   <img src="https://play-lh.googleusercontent.com/T6pMOM0mfm5Km4nHCOxXN63exhPBI5ADUzZmmDavWgjv9A-6_lw0_iKGAVQxCSA4uomd=w2560-h1440-rw" width="135" height="250" />
 </div>
 
 <div>
-  <img src="https://play-lh.googleusercontent.com/HNkYzpj1jOpKQXxRtVVQY37D6E_nZwLYnetuFu2w0rVrpKEfi6AYjN0nserjhvdwqTtY=w2560-h1440-rw" width="175" height="300" />
-   <img src="https://play-lh.googleusercontent.com/m4MJuiCCT6LkhHPILIBhm6bF8NG070uK2QE91VKc_ywSWvrWf2AfKLGJ6yB7SEmLag=w2560-h1440-rw" width="175" height="300" />
-   <img src="https://play-lh.googleusercontent.com/SeLPfHc5t1qTsvZYnu8SPJEBPlLLgun3wm7HA5QxlfqV_XZ6lQkVZTZPMFhsWud7YkU=w2560-h1440-rw" width="175" height="300" />
-  <img src="https://play-lh.googleusercontent.com/bAmQmH2ikYwoD2x00BW3iwMHrj2k5nm2GWsHWbe8aGe2ldZqqgQK_MN3KMdy-pY6xA=w2560-h1440-rw" width="175" height="300" />
+  <img src="https://play-lh.googleusercontent.com/HNkYzpj1jOpKQXxRtVVQY37D6E_nZwLYnetuFu2w0rVrpKEfi6AYjN0nserjhvdwqTtY=w2560-h1440-rw" width="135" height="250" />
+   <img src="https://play-lh.googleusercontent.com/m4MJuiCCT6LkhHPILIBhm6bF8NG070uK2QE91VKc_ywSWvrWf2AfKLGJ6yB7SEmLag=w2560-h1440-rw" width="135" height="250" />
+   <img src="https://play-lh.googleusercontent.com/SeLPfHc5t1qTsvZYnu8SPJEBPlLLgun3wm7HA5QxlfqV_XZ6lQkVZTZPMFhsWud7YkU=w2560-h1440-rw" width="135" height="250" />
+  <img src="https://play-lh.googleusercontent.com/bAmQmH2ikYwoD2x00BW3iwMHrj2k5nm2GWsHWbe8aGe2ldZqqgQK_MN3KMdy-pY6xA=w2560-h1440-rw" width="135" height="250" />
 </div>
 
 <div>
-  <img src="https://play-lh.googleusercontent.com/ey--CPtTGmcBvUusl-WCZ1vUC8kts6qErDl1ZmH-BxzGLmGc-r_Wq5HGPFQthKeYKUE=w2560-h1440-rw" width="150" height="300" />
-   <img src="https://play-lh.googleusercontent.com/ffnzvMqkHOdycyt-Lw26ZrtyVBRtBdhUiohAj-ZuWOxc-bSSiRSh_yMU_y1V1D8xKA=w2560-h1440-rw" width="150" height="300" />
-   <img src="https://play-lh.googleusercontent.com/rVeCvT1O88NuibKKCCmPTopMs1TQISLIOM2Dj8-eaaS5Fsap0bbdkmIfa-dAzTrcaMk=w2560-h1440-rw" width="150" height="300" />
+  <img src="https://play-lh.googleusercontent.com/ey--CPtTGmcBvUusl-WCZ1vUC8kts6qErDl1ZmH-BxzGLmGc-r_Wq5HGPFQthKeYKUE=w2560-h1440-rw" width="135" height="250" />
+   <img src="https://play-lh.googleusercontent.com/ffnzvMqkHOdycyt-Lw26ZrtyVBRtBdhUiohAj-ZuWOxc-bSSiRSh_yMU_y1V1D8xKA=w2560-h1440-rw" width="135" height="250" />
+   <img src="https://play-lh.googleusercontent.com/rVeCvT1O88NuibKKCCmPTopMs1TQISLIOM2Dj8-eaaS5Fsap0bbdkmIfa-dAzTrcaMk=w2560-h1440-rw" width="135" height="250" />
 </div>
 
 ## Are you here to learn something ? :blush:
