@@ -41,7 +41,7 @@
 ## Are you here to learn something ? :blush:
 |  | Java | Kotlin | MVVM | MVP | MVC | Firebase | Hilt | Room | RxJava | Coroutines | Retrofit | Ktor | Volley | OkHttp
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| [AOFFinal](https://github.com/alicobangul/AOFFinal) | ✅ |  |  | ✅ |  |  | ✅ | ✅ | ✅ |  |  |  |  |   |
+| [AOFFinal](https://github.com/alicobangul/AOFFinal) | ✅ |  | ✅ |  |  |  | ✅ | ✅ | ✅ |  |  |  |  |   |
 | [TradingHelperKotlin](https://github.com/alicobangul/TradingHelperKotlin) |  | ✅ | ✅ |  |  |  | ✅ |  | ✅ |  | ✅ | ✅ | ✅ | ✅ |
 | [CryptoKotlin](https://github.com/alicobangul/CryptoKotlin-AllArchitecture) |  | ✅ | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |  | ✅ |  |  |
 | [CryptoJava](https://github.com/alicobangul/CryptoJava-AllArchitecture) | ✅ |  | ✅ | ✅ | ✅ |  | ✅ | ✅ | ✅ |  | ✅ |  |  |
